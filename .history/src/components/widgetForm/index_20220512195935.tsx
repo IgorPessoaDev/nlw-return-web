@@ -61,7 +61,7 @@ export function WidgetForm() {
         </>}
 
       <footer className="text-xs text-neutral-400">
-        <p>Feito com ♥ pelo <a href="https://www.instagram.com/_igor_pessoa" className="underline underline-offset-2">@_igor_pessoa</a></p>
+        <p>Feito com ♥ pela <a href="https://rocketseat.com.br" className="underline underline-offset-2">Rocketseat</a></p>
       </footer>
     </div>
   )
